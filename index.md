@@ -4,6 +4,9 @@
 
 *This Repo is publicly available* 
 
+## Syllabus
+ 
+[Syllabus](https://github.com/zjl0714/Intro_Comparative_2020sp/blob/main/Syllabus_POL500.pdf)
 
 ## Recitation info
 
