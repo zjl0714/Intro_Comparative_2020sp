@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Introduction to Comparative Politics, NYU, 2020 Spring
 
-You can use the [editor on GitHub](https://github.com/zjl0714/Intro_Comparative_2020sp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Instructor: Gwyneth McClendon**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**TA: [Junlong Aaron Zhou](http://www.zhoujunlong.com)**
 
-### Markdown
+*This Repo is publicly available* 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Recitation info
 
-# Header 1
-## Header 2
-### Header 3
+- Thursdays 3:30pm-4:45pm EST
+- 194 Mercer St, room 308
+- Zoom Meeting since COVID-19 outbreak
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## TA office hours
 
-**Bold** and _Italic_ and `Code` text
+- Thursdays 2:00pm-3:00pm; 5:00pm-6:00pm EST 
+- Book a time slot (no more than two consecutive slots) [[here](https://calendly.com/jlzhou/15min)]
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Schedule
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zjl0714/Intro_Comparative_2020sp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Week 2: [State and Regime](/week2.pdf)
+- Week 3: Modernization Theory and Its Critics
+- Week 4: Democratic Transition and Federal System
+- Week 5: Presidential System v.s. Parliamentary System
+- Week 6: Electoral System
+- Week 7: Voting Behavior
+- Week 8: Calculus of Voting
+- Week 9: Partisanship / Intro to Regression Tables
+- Week 10: Ethnicity
+- Week 11: Electoral malpractice 
