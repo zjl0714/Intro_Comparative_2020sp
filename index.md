@@ -23,8 +23,8 @@
 
 ## Schedule
 
-- Week 2: [State and Regime](/week2.pdf)
-- Week 3: Modernization Theory and Its Critics
+- Week 2: [State and Regime](https://github.com/zjl0714/Intro_Comparative_2020sp/blob/main/week2.pdf)
+- Week 3: [Modernization Theory and Its Critics](https://github.com/zjl0714/Intro_Comparative_2020sp/blob/main/week3.pdf)
 - Week 4: Democratic Transition and Federal System
 - Week 5: Presidential System v.s. Parliamentary System
 - Week 6: Electoral System
