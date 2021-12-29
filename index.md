@@ -29,6 +29,6 @@
 - Week 6: [Electoral System](https://github.com/zjl0714/Intro_Comparative_2020sp/blob/main/week6.pdf)
 - Week 7: [Voting Behavior](https://github.com/zjl0714/Intro_Comparative_2020sp/blob/main/week7.pdf)
 - Week 8: [Calculus of Voting](https://github.com/zjl0714/Intro_Comparative_2020sp/blob/main/week8.pdf)
-- Week 9: [Partisanship / Intro to Regression Tables](https://github.com/zjl0714/Intro_Comparative_2020sp/blob/main/week9.pdf)
+- Week 9: [Partisanship](https://github.com/zjl0714/Intro_Comparative_2020sp/blob/main/week9.pdf) / [Intro to Regression Tables](https://github.com/zjl0714/Intro_Comparative_2020sp/blob/main/Regression_recitation.pdf)
 - Week 10: [Ethnicity](https://github.com/zjl0714/Intro_Comparative_2020sp/blob/main/week10.pdf)
 - Week 11: [Electoral malpractice](https://github.com/zjl0714/Intro_Comparative_2020sp/blob/main/week11.pdf)
